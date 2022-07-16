@@ -2,6 +2,8 @@
 
 Analysis of the population demographics of the neighborhood Over-The-Rhine (OTR)
 
+![image of OTR](https://cincinnatiusa.com/sites/default/files/styles/Array/public/1_Findlay%20Market_Pramik_1.jpg)
+
 ## **Purpose of this project**
 
 * Analyze official census data to observe changes in demographic populations
