@@ -58,29 +58,29 @@ Analysis of the population demographics of the neighborhood Over-The-Rhine (OTR)
 
 
 ## **Features used**
-* Import and read data
+* **Import and read data**
     * I used pandas.read_excel to read in data from a local excel file.
-* Manipulation and cleaning of the data
+* **Manipulation and cleaning of the data**
     * Use built-in pandas or numpy functions to manipulate and clean my dataframes
     * Removed all rows and columns that were not necessary for this project
-* Analysis of the data
+* **Analysis of the data**
     * I used geopandas and contextily to create spatial visualizations
     * I created new dataframes incorporating the demographic information from each of the excel files of the census data
         * For that purpose, I used functions like loops, lists, or dictionaries.
     * I used statistical methods to analyze the data
         * I calculated the Pearson coefficient (Coefficient r) to obtain the correlation between years and white population with the objective to identify a trend in the increase of the mentioned population
-* Visualization of the data
+* **Visualization of the data**
     * For the spatial visualizations I used the geopandas library
     * To create the basemaps I used the contextily library
     * I used matplotlib to create different plots and subplots 
         * Bar graphs to identify variations in the populations, educational attainment, and median income
         * Scatter plots with regression line to identify positive or negative trends in the populations
-* Interpretation of the data
+* **Interpretation of the data**
     * I used Markdown cells in the Jupyter Lab notebook explaining the process and code interpretation of the data’s output
 
 ## **Resources used for Data sets**
 
-* [Social Explorer] (https://www.socialexplorer.com/a9676d974c/explore "Census Data Sets")
+* [Social Explorer](https://www.socialexplorer.com/a9676d974c/explore "Census Data Sets")
 
-* [Census Reporter] (https://censusreporter.org/data/table/?table=B03002&geo_ids=16000US3915000,05000US39061,31000US17140,04000US39,01000US,140|16000US3915000&primary_geo_id=16000US3915000 "Census Data for spatial visualizations")
+* [Census Reporter](https://censusreporter.org/data/table/?table=B03002&geo_ids=16000US3915000,05000US39061,31000US17140,04000US39,01000US,140|16000US3915000&primary_geo_id=16000US3915000 "Census Data for spatial visualizations")
 
