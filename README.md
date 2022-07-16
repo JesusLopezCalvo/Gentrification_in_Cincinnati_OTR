@@ -3,6 +3,9 @@
 Analysis of the population demographics of the neighborhood Over-The-Rhine (OTR)
 
 ![image of OTR](https://cincinnatiusa.com/sites/default/files/styles/Array/public/1_Findlay%20Market_Pramik_1.jpg)
+ <b>“Findlay Market.” Cincinnati USA, 22 Dec. 2013, Cincinnatiusa.com
+
+‌</b>|
 
 ## **Purpose of this project**
 
