@@ -87,16 +87,14 @@ Analysis of the population demographics of the neighborhood Over-The-Rhine (OTR)
 
 * [Census Reporter](https://censusreporter.org/data/table/?table=B03002&geo_ids=16000US3915000,05000US39061,31000US17140,04000US39,01000US,140|16000US3915000&primary_geo_id=16000US3915000 "Census Data for spatial visualizations")
 
-# Badges 
-## 1. GitHub Stats
+## Badges 
+### 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JesusLopezCalvo&show_icons=true)
-## 2. Most Used Languages
+### 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusLopezCalvo&theme=blue-green)
-## 3. Contributors Badge
+### 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=JesusLopezCalvo/Gentrification_in_Cincinnati_OTR)
-## 4. Random Joke Generator
+### 4. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=JesusLopezCalvo)
-### Repository View Counter - HITS
+### 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JesusLopezCalvo)
