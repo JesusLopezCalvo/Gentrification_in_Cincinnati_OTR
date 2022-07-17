@@ -3,7 +3,7 @@
 Analysis of the population demographics of the neighborhood Over-The-Rhine (OTR)
 
 ![image of OTR](https://cincinnatiusa.com/sites/default/files/styles/Array/public/1_Findlay%20Market_Pramik_1.jpg)
- <b>“Findlay Market.” Cincinnati USA, 22 Dec. 2013,              Cincinnatiusa.com 
+ <b>“Findlay Market.” Cincinnati USA, 22 Dec. 2013,           Cincinnatiusa.com </b>
 
 ## **Purpose of this project**
 
@@ -27,10 +27,10 @@ Analysis of the population demographics of the neighborhood Over-The-Rhine (OTR)
     * I used a geojson file from CensusReporter website
 * I analyze census data to obtain a demographic trend between years 1950 – 2020 for white and Black populations
     * I used pandas library to create different dataframes of the demographic data
-    * I use official census data sets from Social Explorer website 
+    * I used official census data sets from Social Explorer website 
 * I analyze educational attainment and median income
     * I used pandas library to create different dataframes of the demographic data
-    * I use ACS surveys to from Social Explorer website
+    * I used ACS surveys from Social Explorer website
 
 
 ## **Setup**
